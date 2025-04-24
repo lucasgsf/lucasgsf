@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Lucas Ferreira
 
-<!--
-**lucasgsf/lucasgsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with 7+ years crafting robust backend solutions with .NET/C# and cloud technologies. Passionate about building scalable microservices architectures and RESTful APIs that solve real business challenges. Currently focused on Azure DevOps, distributed systems, and high-performance cloud applications. Open source enthusiast and continuous learner committed to clean code principles and engineering excellence.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend**: C#, .NET Core, ASP.NET Core, NodeJS, NestJS
+- **Frontend**: React, Angular, TypeScript
+- **Cloud**: Azure (DevOps, Functions, Service Bus), AWS
+- **Databases**: SQL Server, MongoDB, Redis
+- **DevOps**: Docker, Kubernetes, CI/CD, Azure Pipelines
+- **Architecture**: Microservices, Serverless, SOLID, DDD
+
+## 🚀 Current Focus
+
+- Designing high-performance distributed systems
+- Implementing cloud-native applications on Azure
+- Optimizing CI/CD pipelines for faster delivery
+- Exploring serverless architectures
+
+## 📫 Connect With Me
+
+- LinkedIn: [lucasgsf](https://www.linkedin.com/in/lucasgsf)
+- Email: contatolucasgsf@gmail.com
+
+## 💼 Professional Experience
+
+Currently working as a Senior Software Engineer at Pottencial Seguradora, where I develop mission-critical systems and APIs. I'm also Co-Founder and Tech Lead at Supplyz, building cloud solutions with seamless ERP integrations.
