@@ -25,4 +25,4 @@ Senior Software Engineer with 7+ years crafting robust backend solutions with .N
 
 ## 💼 Professional Experience
 
-Currently working as a Senior Software Engineer at Pottencial Seguradora, where I develop mission-critical systems and APIs. I'm also Co-Founder and Tech Lead at Supplyz, building cloud solutions with seamless ERP integrations.
+Currently working as a Senior Software Engineer at Pottencial Seguradora, where I develop mission-critical systems and APIs.
