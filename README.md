@@ -25,4 +25,4 @@ Senior Software Engineer with 7+ years crafting robust backend solutions with .N
 
 ## 💼 Professional Experience
 
-Currently working as a Senior Software Engineer at Pottencial Seguradora, where I develop mission-critical systems and APIs.
+Currently working as a Senior Software Engineer at PraValer, where I develop mission-critical systems and APIs.
