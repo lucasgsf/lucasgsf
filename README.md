@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucas Ferreira
 
-Senior Software Engineer with 7+ years crafting robust backend solutions with .NET/C# and cloud technologies. Passionate about building scalable microservices architectures and RESTful APIs that solve real business challenges. Currently focused on Azure DevOps, distributed systems, and high-performance cloud applications. Open source enthusiast and continuous learner committed to clean code principles and engineering excellence.
+Senior Software Engineer with 9+ years crafting robust backend solutions with .NET/C# and cloud technologies. Passionate about building scalable microservices architectures and RESTful APIs that solve real business challenges. Currently focused on Azure DevOps, distributed systems, and high-performance cloud applications. Open source enthusiast and continuous learner committed to clean code principles and engineering excellence.
 
 ## 💻 Tech Stack
 
@@ -25,4 +25,4 @@ Senior Software Engineer with 7+ years crafting robust backend solutions with .N
 
 ## 💼 Professional Experience
 
-Currently working as a Senior Software Engineer at PraValer, where I develop mission-critical systems and APIs.
+Currently working as a Senior Software Engineer at EY, where I develop mission-critical systems and APIs.
